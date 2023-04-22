@@ -20,7 +20,7 @@ body{
 img{
     padding: 12px 7px 0px 7px;
     width: 240px;
-    border-radius: 8%;
+    border-radius: 7%;
 
 }
 p{
@@ -37,7 +37,7 @@ h3{
     text-align: center;
     padding:0px 20px 0px 20px;
     font-family: 'Outfit', sans-serif;
-    opacity: 0.7;
+    opacity: 0.8;
 
 
 }
