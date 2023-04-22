@@ -1,0 +1,44 @@
+body{
+    background-color:#dde8ed;
+   
+
+
+
+}
+
+.main{
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin: 80px auto auto auto;
+    width: 270px;
+
+
+
+
+}
+img{
+    padding: 12px 7px 0px 7px;
+    width: 240px;
+    border-radius: 8%;
+
+}
+p{
+    font-size: 15px;
+    font-Weights: 400;
+    color: hsl(0, 0%, 66%);
+    padding: 0px 15px 33px 15px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+h3{
+    display: block;
+    text-align: center;
+    padding:0px 20px 0px 20px;
+    font-family: 'Outfit', sans-serif;
+    opacity: 0.8;
+
+
+}
+
